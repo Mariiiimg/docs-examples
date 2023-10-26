@@ -1,3 +1,9 @@
+
+      const cardFields = paypal.CardFields({
+          style,
+          createOrder,
+          onApprove
+      });
 # PayPal Developer Docs Example Code
 Examples from the official PayPal Developer Docs
 
